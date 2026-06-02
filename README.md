@@ -1,7 +1,7 @@
 # director-of-data-interview-example
 Structured interview example, scorecard criteria, and evaluation rubrics for a Director of Data role. Designed to ensure fair, transparent, and calibration-driven hiring for data science and ML engineering leadership.
 
-# Director of Data — Logistics & Fulfillment: Interview Framework
+# Director of Data — Logistics & Fulfilment: Interview Framework
 
 > [!NOTE]
 > **Important Disclaimer:** This repository serves as a structural blueprint and template example for the interview pipeline. It contains the evaluation criteria and framework layout only. **No actual candidate answers, test solutions, or assessor feedback/scores are included in this plan.**
