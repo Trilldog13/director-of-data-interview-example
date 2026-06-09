@@ -4,7 +4,7 @@ Structured interview example, scorecard criteria, and evaluation rubrics for a D
 # Director of Data — : Interview Framework Example 
 
 > [!NOTE]
-> **Important Disclaimer:** This repository serves as a structural blueprint and template example for the interview pipeline. It contains the evaluation criteria and framework layout only. **No actual candidate answers, test solutions, or assessor feedback/scores are included in this plan.**
+> **This is an Important Disclaimer:** This repository serves as a structural blueprint and template example for the interview pipeline. It contains the evaluation criteria and framework layout only. **No actual candidate answers, test solutions, or assessor feedback/scores are included in this plan.**
 
 Welcome to the structured hiring framework example for the **Director of Data** role. This repository outlines our end-to-end interview pipeline, assessment criteria, and scoring rubrics. 
 
